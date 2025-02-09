@@ -79,8 +79,3 @@
 I'm Durjoy , CSE undergraduate with a passion for competitive programming and a growing interest in machine learning. I'm constantly seeking challenges to improve my problem-solving skills and algorithmic thinking. Recently, I've embarked on a journey to explore the fascinating world of machine learning.
 </p>
 
-<!-- Adding Animation -->
-<h3 align="center">Keep Hustling! 🚀</h3>
-<p align="center">
-  <img src="https://ask.libreoffice.org/uploads/asklibo/original/3X/0/d/0de586544bba6cc70466cd97b45686d5dcbca532.gif" width="200"/>
-</p>
