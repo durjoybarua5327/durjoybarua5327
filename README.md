@@ -66,12 +66,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durjoybarua5327&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="durjoybarua5327" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=durjoybarua5327&show_icons=true&locale=en&theme=tokyonight" alt="durjoybarua5327" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durjoybarua5327&theme=tokyonight" alt="durjoybarua5327" />
-</p>
+
 
 <!-- About Me -->
 <h3 align="left">About Me:</h3>
