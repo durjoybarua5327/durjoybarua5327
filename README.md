@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=durjoybarua5327&color=blue&style=flat-square)
@@ -14,27 +15,25 @@
 
 ---
 
-### 🛠️ Tech Stack
 
-#### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Web Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### Data Science
+
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
 
 <div align="center">
   
@@ -48,14 +47,13 @@
 
 ---
 
-### 🏆 Achievements
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/durjoybarua5327/)
-![Problems Solved](https://img.shields.io/badge/Solved-200%2B%20Problems-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-300%2B%20Problems-brightgreen?style=for-the-badge)
 
 ---
 
-### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/durjoy-barua">
