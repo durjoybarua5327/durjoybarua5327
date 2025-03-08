@@ -37,12 +37,7 @@
 
 <div align="center">
   
-  [![Durjoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=durjoybarua5327&show_icons=true&theme=radical&hide_border=true)](https://github.com/durjoybarua5327)
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durjoybarua5327&layout=compact&theme=radical&hide_border=true)](https://github.com/durjoybarua5327)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=durjoybarua5327&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
