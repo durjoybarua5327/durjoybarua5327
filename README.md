@@ -51,13 +51,13 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/durjoy-barua">
+  <a href="https://www.linkedin.com/in/durjoybarua/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:durjoybarua8115@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/durjoy.barua.587268">
+  <a href="https://www.facebook.com/durjoybarua5327">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
