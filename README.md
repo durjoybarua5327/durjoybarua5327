@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://durjoybarua5327.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=7CF57C&center=true&vCenter=true&width=500&height=50&lines=Competitive+Programmer;Machine+Learning+Enthusiast;Web+Scraper;Open-Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=7CF57C&center=true&vCenter=true&width=500&height=50&lines=Competitive+Programmer;Machine+Learning+Enthusiast;Web+Scraper;" alt="Typing SVG" />
   </a>
 </p>
 
