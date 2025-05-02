@@ -21,15 +21,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durjoybarua5327&layout=compact&theme=radical&hide_border=true)](https://github.com/durjoybarua5327)
 </div>
 
----
-
-
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/durjoybarua5327/)
-![Problems Solved](https://img.shields.io/badge/Solved-300%2B%20Problems-brightgreen?style=for-the-badge)
-
----
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/durjoybarua/">
