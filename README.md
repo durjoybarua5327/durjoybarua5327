@@ -16,10 +16,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- About Me Section with Code Block -->
-<h2>
+<h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
   About Me
-</h2>
+</h3>
 
 ```typescript
 const durjoy: Developer = {
@@ -42,10 +42,10 @@ const durjoy: Developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- GitHub Stats Section -->
-<h2>
+<h3>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px">
   GitHub Analytics
-</h2>
+</h3>
 
 
 <p align="center">
@@ -58,22 +58,22 @@ const durjoy: Developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Tech Stack Section -->
-<h2>
+<h3>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
   Tech Stack
-</h2>
+</h3>
 
-<h3 align="center">🎨 Frontend Technologies</h3>
+<h4 align="center">🎨 Frontend Technologies</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui&theme=dark" alt="Frontend" />
 </p>
 
-<h3 align="center">⚙️ Backend & Database</h3>
+<h4 align="center">⚙️ Backend & Database</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql,firebase&theme=dark" alt="Backend" />
 </p>
 
-<h3 align="center">🤖 AI/ML & Data Science</h3>
+<h4 align="center">🤖 AI/ML & Data Science</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -86,10 +86,10 @@ const durjoy: Developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Competitive Programming Section -->
-<h2>
+<h3>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px" height="35px">
   Competitive Programming
-</h2>
+</h3>
 </p>
 
 <p align="center">
@@ -108,10 +108,10 @@ const durjoy: Developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Connect Section -->
-<h2>
+<h3>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px" height="35px">
   Let's Connect!
-</h2>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/durjoybarua/">
