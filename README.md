@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Dynamic Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Durjoy%20Barua&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=Durjoy%20Barua&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=18&descSize=10" />
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=100&lines=Competitive+Programmer+%F0%9F%8F%86;Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%26+Innovator+%E2%9A%A1;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Machine+Learning+%F0%9F%A4%96;Problem+Solver+%E2%9A%A1;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,8 +34,6 @@ const durjoy: Developer = {
         "Problem Solving"
     ],
     currentFocus: "Building scalable applications & AI solutions",
-    languages: ["C++", "Python", "JavaScript", "TypeScript"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
     motto: "Code. Learn. Repeat. 🔄"
 };
 ```
@@ -62,13 +60,8 @@ const durjoy: Developer = {
 <!-- Tech Stack Section -->
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
-  Tech Stack & Tools
+  Tech Stack
 </h2>
-
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript&theme=dark" alt="Languages" />
-</p>
 
 <h3 align="center">🎨 Frontend Technologies</h3>
 <p align="center">
@@ -84,15 +77,9 @@ const durjoy: Developer = {
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
-<h3 align="center">🔧 Tools & Technologies</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 <!-- Animated Divider -->
