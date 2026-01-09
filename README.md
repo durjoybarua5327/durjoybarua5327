@@ -65,7 +65,7 @@ const durjoy: Developer = {
 
 <h4 align="center">🎨 Frontend Technologies</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,materialui&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" alt="Frontend" />
 </p>
 
 <h4 align="center">⚙️ Backend & Database</h4>
