@@ -26,7 +26,7 @@ const durjoy: Developer = {
     name: "Durjoy Barua",
     location: "Chattogram, Bangladesh 🇧🇩",
     education: "Computer Science & Engineering",
-    role: "Full Stack Developer | ML Engineer",
+    role: "Full Stack Developer | ML Enthusiast",
     interests: [
         "Competitive Programming",
         "Machine Learning & AI", 
